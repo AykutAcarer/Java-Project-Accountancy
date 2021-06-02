@@ -1,5 +1,8 @@
 package code.account;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 public class BezugsKosten extends Eingabe{
 
 	double bezugsPreis;
