@@ -1,5 +1,8 @@
 package code.account;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 public class SelbstKosten {
 	double selbstKosten;
 	
