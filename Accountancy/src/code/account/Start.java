@@ -1,7 +1,8 @@
 package code.account;
-/** 
-* @author Aykut Acarer
-*/
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.util.Scanner;
 
 public  class Start {
